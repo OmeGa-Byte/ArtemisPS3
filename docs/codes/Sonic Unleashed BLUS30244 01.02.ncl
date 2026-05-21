@@ -1,6 +1,5 @@
 Also known as
 Sonic World Adventure
-
 #
 Max Rings On Gain
 0
@@ -137,4 +136,24 @@ B 00010000 04000000
 B EDAD0028FF8DF800D1BF00E8 60000000FF8DF800D1BF00E8
 B 00010000 04000000
 B FF805800D00B00DC FF80580060000000
+#
+Disable Shadows (PSXPlace) [Tested]
+0
+illusion
+0 00E0464C 38000000
+#
+Disable Motion Blur (PSXPlace) [Tested]
+0
+illusion
+0 00E234E8 38000000
+#
+Disable Depth Of Field (PSXPlace) [Tested]
+0
+illusion
+0 00E5D7C4 38000000
+#
+Disable Reflection (PSXPlace) [Tested]
+0
+illusion
+0 00E1EEF0 38000000
 #
